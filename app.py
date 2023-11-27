@@ -26,7 +26,7 @@ with st.sidebar:
  
     ''')
     add_vertical_space(5)
-    st.write('Made with ❤️ by [Ganesh Pasnurwar](https://youtube.com/@engineerprompts)')
+    st.write('Made with ❤️ by [Five Ingredients]')
 
 
 load_dotenv()
